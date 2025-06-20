@@ -14,5 +14,5 @@ Anggota Kelompok:
 
 Link Figma : 
 https://www.figma.com/design/6Vcyg34dmujJKQHvaUw4Dd/Project-Android?node-id=0-1&t=nbWAxzoMk2RhoAf5-1
-1. Login menggunakan Username dan Password "admin"
+1. Login menggunakan email "jojo@gmail.com" dan Password "123abc" atau bisa sign up
 2. Dari Stealth Mode ke Notes klik "C" di Basic Calculator 3x
