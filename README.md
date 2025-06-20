@@ -1,4 +1,4 @@
-# UTS Pemrograman Android
+# Project Pemrograman Android
 ## SealNote - Catatan Rahasia yang Terkunci
 
 SealNote menggabungkan konsep "seal" yang berarti anjing laut dalam bahasa Inggris dan segel/kunci untuk keamanan. 
