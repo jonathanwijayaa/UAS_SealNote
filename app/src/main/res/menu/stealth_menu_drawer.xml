@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#152332">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/stealthCalculatorFragment"
+            android:icon="@drawable/ic_notes"
+        android:title="Basic Calculator" />
+        <item
+            android:id="@+id/stealthScientificFragment"
+            android:icon="@drawable/ic_calculator_2"
+        android:title="Scientific Calculator" />
+        <item
+            android:id="@+id/stealthHistoryFragment"
+            android:icon="@drawable/ic_history_2"
+        android:title="History" />
+    </group>
+</menu>

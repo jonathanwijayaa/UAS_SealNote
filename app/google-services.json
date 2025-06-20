@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "393292911710",
+    "project_id": "sealnote-d96a4",
+    "storage_bucket": "sealnote-d96a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393292911710:android:f97b5ecb2d5d78047b50cf",
+        "android_client_info": {
+          "package_name": "com.example.sealnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393292911710-om2jfnkrnjoer3utams25kvpo8034r0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sealnote",
+            "certificate_hash": "f1fc7946a8e038ed956760727d3fd604da37d8e0"
+          }
+        },
+        {
+          "client_id": "393292911710-l3trq7oknopeo9pket2fa9shfhm9cp7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArQ-qy2fXBW6gON3untWaX9rck560VR-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393292911710-l3trq7oknopeo9pket2fa9shfhm9cp7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gradientStart">#6C5DD3</color>
+    <color name="gradientEnd">#A855F7</color>
+    <color name="background">#152332</color>
+    <color name="warnatext">#FFF3DB</color>
+    <color name="warnaicon">#FFF3DB</color>
+    <color name="warnabox">#3C4177</color>
+    <color name="background_dark">#1E2A3A</color>
+    <color name="button_blue_purple">#4A52AA</color>
+    <color name="button_dark_blue">#313673</color>
+    <color name="dark_blue_background">#17223B</color>
+    <color name="input_field_background">#2A3A59</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9FADBF</color>
+    <color name="accent_blue">#3D9EE3</color>
+    <color name="gradient_start">#9747FF</color>
+    <color name="gradient_end">#3D9EE3</color>
+    <item name="colorControlNormal" type="drawable">@drawable/gradient_button_background</item>
+<!-- In res/values/colors.xml -->
+    <color name="my_toolbar_background">#152332</color>  <!-- Example: Purple -->
+    <color name="my_toolbar_title_text">@android:color/white</color>
+    <color name="my_toolbar_subtitle_text">#DDFFFFFF</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+
+    <!-- <color name="my_toolbar_background">#3F51B5</color> -->
+  <!-- Example: Indigo -->
+    <!-- <color name="my_toolbar_title_text">@</color> -->
+</resources>

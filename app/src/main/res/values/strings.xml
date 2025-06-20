@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SealNote</string>
+        <string name="menu">Menu</string>
+        <string name="basic">Basic</string>
+        <string name="default_display">5.000</string>
+        <string name="backspace">⌫</string>
+        <string name="square_root">x/y</string>
+        <string name="percent">%</string>
+        <string name="divide">÷</string>
+        <string name="seven">7</string>
+        <string name="eight">8</string>
+        <string name="nine">9</string>
+        <string name="multiply">×</string>
+        <string name="four">4</string>
+        <string name="five">5</string>
+        <string name="six">6</string>
+        <string name="subtract">-</string>
+        <string name="one">1</string>
+        <string name="two">2</string>
+        <string name="three">3</string>
+        <string name="add">+</string>
+        <string name="clear">C</string>
+        <string name="zero">0</string>
+        <string name="decimal">,</string>
+        <string name="equal">=</string>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation Drawer</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/background_dark">
+    <group android:checkableBehavior="single"
+        android:background="#152332">
+        <item
+            android:id="@+id/homepageFragment"
+            android:icon="@drawable/ic_notes"
+            android:title="Homepage" />
+        <item
+            android:id="@+id/bookmarksFragment"
+            android:icon="@drawable/ic_bookmark"
+            android:title="Bookmarks" />
+        <item
+            android:id="@+id/secretNotesLockedFragment"
+            android:icon="@drawable/ic_secret"
+            android:title="Secret Notes" />
+        <item
+            android:id="@+id/trashFragment"
+            android:icon="@drawable/ic_trash"
+            android:title="Trash" />
+        <item
+            android:id="@+id/profileFragment"
+            android:icon="@drawable/ic_profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/settingsFragment"
+            android:icon="@drawable/ic_settings"
+            android:title="Settings" />
+
+    </group>
+</menu>
